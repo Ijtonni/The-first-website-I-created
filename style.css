@@ -1,0 +1,13 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
+h1{
+   font-size: 50px;
+}
+
+.salmon{
+    color: rgb(247, 214, 172);
+}
+section{
+    display: flex;
+}
